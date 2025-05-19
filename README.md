@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a digital design enthusiast who loves creating sleek, 
 
 Here’s what I mess with most (per GitHub’s stats and my experiments):
 
-- [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML) - My bread and butter for web structure and design.
+- [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML) - My bred and butter for web structure and design :3
 - [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript) - Adding some spice to my web projects.
 - [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS) - Making everything look as good as my designs.
 - [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow)](https://en.wikipedia.org/wiki/Python_(programming_language)) - Thanks to AI, it’s not a total disaster.
