@@ -24,7 +24,7 @@ Here’s what I mess with most (per GitHub’s stats and my experiments):
 - [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://en.wikipedia.org/wiki/Lua_(programming_language)) - For scripting in game dev and lightweight projects.
 - [![Java](https://img.shields.io/badge/Java-B07219?style=flat-square&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_(programming_language)) - Tackling some backend and app dev challenges.
 - [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) - When I need performance and get nerdy with systems.
-- [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language)) - Getting down to the [nitty-gritty](https://www.youtube.com/watch?v=1nq34CVIgF4) of low-level coding.
+- [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language)) - Getting down to the [nitty-gritty](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3Dy1G7TM5Qydc&ved=2ahUKEwjGya2P8a-NAxVoG9AFHRHLAPcQz40FegQIDxAH&usg=AOvVaw2PfQrmRb4XsIx1lMVa4tly) of low-level coding.
 - [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) - For Unity projects and game development vibes.
 
 ---
