@@ -32,7 +32,7 @@ Here’s what I mess with most (per GitHub’s stats and my experiments):
 ## Connect With Me
 
 Wanna see more of my work or just vibe? Check out my space:  
-🌌 <a href="https://djaysspace.carrd.co/" style="display: inline-block; padding: 8px 16px; background-color: #333; color: white; text-decoration: none; border-radius: 5px; transition: background-color 0.3s;">D-Jay's Space</a>
+🌌 <a href="https://djayspace.vercel.app/" style="display: inline-block; padding: 8px 16px; background-color: #333; color: white; text-decoration: none; border-radius: 5px; transition: background-color 0.3s;">D-Jay's Space</a>
 
 ---
 
