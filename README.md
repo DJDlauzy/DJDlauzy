@@ -22,7 +22,7 @@ Here’s what I mess with most (per GitHub’s stats and my experiments):
 
 ## Connect With Me
 
-Wanna see more of my work or just vibe? Check out my space:  
+Wanna see more of my work or just vibe? Check out my space: (My site is no longer up, and I'm too lazy to fix it) 
 🌌 <a href="https://djayspace.vercel.app/" style="display: inline-block; padding: 8px 16px; background-color: #333; color: white; text-decoration: none; border-radius: 5px; transition: background-color 0.3s;">D-Jay's Space</a>
 
 ---
