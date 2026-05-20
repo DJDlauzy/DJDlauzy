@@ -26,5 +26,4 @@ Wanna see more of my work or just vibe? Check out my space:
 🌌 <a href="https://djayspace.vercel.app/" style="display: inline-block; padding: 8px 16px; background-color: #333; color: white; text-decoration: none; border-radius: 5px; transition: background-color 0.3s;">D-Jay's Space</a>
 
 ---
-
-Thanks for swinging by! Dive into my repos!
+Bye Bye. Dive into my repos!
