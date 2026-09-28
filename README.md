@@ -1,4 +1,4 @@
-# Hey, I'm D-Jay (DJDlauzy)! 👋 :3
+# Hey, I'm D-Jay (DJDlauzy)! 
 
 Welcome to my GitHub thingy! I'm a digital design enthusiast who loves creating things. I’m all about crafting clean, structured web pages with **HTML**—it’s my go-to for building the foundation of my designs. Yes, I simp to HTML go away...
 ---
